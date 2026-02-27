@@ -1,4 +1,4 @@
-<img src="3840_2160_30fps.mp4" width="100%" />
+<video src="3840_2160_30fps.mp4" autoplay loop muted width="100%"></video>
 <h1 align="center">Hey, I'm Ayan</h1>
 <h3 align="center">Software Developer from India</h3>
 
