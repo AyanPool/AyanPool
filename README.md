@@ -1,3 +1,4 @@
+<img src="3840_2160_30fps.mp4" width="100%" alt="Boid Simulation GIF"/>
 <h1 align="center">Hey, I'm Ayan</h1>
 <h3 align="center">Software Developer from India</h3>
 
