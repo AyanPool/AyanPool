@@ -1,13 +1,3 @@
-<a href="https://github.com/AyanPool/AyanPool/raw/main/3129671-uhd_3840_2160_30fps.mp4">
-  <video src="https://github.com/AyanPool/AyanPool/raw/main/3129671-uhd_3840_2160_30fps.mp4"
-         autoplay
-         loop
-         muted
-         playsinline
-         width="100%">
-  </video>
-</a>
-
 <h1 align="center">Hey, I'm Ayan</h1>
 <h3 align="center">Software Engineer from India</h3>
 
