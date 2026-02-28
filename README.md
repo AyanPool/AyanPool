@@ -12,7 +12,15 @@ Passionate about Backend Development, Machine Learning, and building scalable so
 </td>
 
 <td width="50%">
-<img src="spacex3.gif" width="100%" style="border-radius:10px; object-fit:cover;"/>
+
+<img src="spacex3.gif"
+style="
+width:100%;
+height:320px;
+object-fit:cover;
+border-radius:12px;
+"/>
+
 </td>
 </tr>
 </table>
@@ -26,8 +34,6 @@ Passionate about Backend Development, Machine Learning, and building scalable so
 
 <td width="50%" valign="top">
 
-<!-- Icons row -->
-<!-- Bullet list -->
 <ul>
 <li>C++</li>
 <li>Python</li>
@@ -47,12 +53,11 @@ Passionate about Backend Development, Machine Learning, and building scalable so
 
 
 
-<!-- GIF section -->
-<td width="50%" valign="middle" align="center">
+<td width="50%" valign="middle">
 
 <img src="skies.gif"
 style="
-width:95%;
+width:100%;
 height:320px;
 object-fit:cover;
 border-radius:12px;
@@ -78,4 +83,13 @@ width="40"/>
 
 </p>
 
-<img src="spacez.gif" width="100%" style="object-fit:cover"/>
+
+
+<img src="spacez.gif"
+style="
+width:100%;
+height:250px;
+object-fit:cover;
+border-radius:12px;
+margin-top:20px;
+"/>
