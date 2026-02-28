@@ -1,3 +1,5 @@
+<img src="Untitled design.gif" width="100%"/>
+
 <h1 align="center">Hey, I'm Ayan</h1>
 <h3 align="center">Software Engineer from India</h3>
 
