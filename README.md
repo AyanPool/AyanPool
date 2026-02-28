@@ -50,7 +50,7 @@ Passionate about Backend Development, Machine Learning, and building scalable so
 <!-- GIF section -->
 <td width="50%" valign="middle" align="center">
 
-<img src="spacez.gif"
+<img src="skies.gif"
 style="
 width:95%;
 height:320px;
