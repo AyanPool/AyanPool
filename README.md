@@ -1,17 +1,11 @@
-<img src="Untitled design.gif" width="100%" height="120px" style="object-fit:cover"/>
+<img src="Untitled design.gif" width="100%" style="object-fit:cover"/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="middle">
 
 <h1>Hey 👋, I'm Ayan</h1>
-<h3>Software Engineer from India 🇮🇳</h3>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ayan-kumar-a06b82224/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+<h3>Software Engineer from India</h3>
 
 </td>
 <td width="50%">
@@ -35,3 +29,9 @@
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
 </p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ayan-kumar-a06b82224/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
