@@ -121,14 +121,4 @@ width="40"/>
 
 </p>
 
-
-
-<!-- Bottom banner GIF -->
-<img src="spacez.gif"
-width="100%"
-style="
-margin-top:20px;
-height:250px;
-object-fit:cover;
-border-radius:12px;
-"/>
+<img src="spacez.gif" width="100%" style="object-fit:cover"/>
