@@ -28,4 +28,4 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
-<img src="Untitled design.gif" width="100%" style="object-fit:cover"/>
+<img src="spacez.gif" width="100%" style="object-fit:cover"/>
