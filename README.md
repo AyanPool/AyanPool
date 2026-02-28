@@ -1,8 +1,10 @@
 <img src="Untitled design.gif" width="100%"/>
 
 <h1 align="center">Hey, I'm Ayan</h1>
-<img src="spacex.gif" width="100%"/>
 <h3 align="center">Software Engineer from India</h3>
+
+<img src="spacex.gif" width="100%"/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
