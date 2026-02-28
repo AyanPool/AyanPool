@@ -4,17 +4,19 @@
 
 <h1>Hey, I'm Ayan</h1>
 <h3>Software Engineer from India</h3>
+
 <p>
-Passionate about building scalable software, backend systems, and AI-powered applications.
+Passionate about Backend Development, Machine Learning, and building scalable software systems.
 </p>
 
 </td>
 
 <td width="50%">
-<img src="spacex3.gif" width="100%"/>
+<img src="spacex3.gif" width="100%" style="border-radius:10px; object-fit:cover;"/>
 </td>
 </tr>
 </table>
+
 
 
 <h2 align="left">Technologies I use:</h2>
@@ -24,8 +26,9 @@ Passionate about building scalable software, backend systems, and AI-powered app
 
 <td width="50%" valign="top">
 
-<!-- Icons -->
-<p>
+<!-- Icons row -->
+<p align="left">
+
 <a href="https://www.w3schools.com/cpp/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </a>
@@ -53,7 +56,17 @@ Passionate about building scalable software, backend systems, and AI-powered app
 <a href="https://scikit-learn.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</a>
+
 </p>
+
 
 
 <!-- Bullet list -->
@@ -65,22 +78,34 @@ Passionate about building scalable software, backend systems, and AI-powered app
 <li>PostgreSQL</li>
 <li>Pandas</li>
 <li>Scikit-Learn</li>
+<li>Flask</li>
+<li>Power BI</li>
 <li>Data Structures & Algorithms</li>
 <li>Machine Learning</li>
 <li>Backend Development</li>
-<li>Flask</li>
 <li>OpenAI API Integration</li>
 </ul>
 
 </td>
 
 
-<td width="50%">
-<img src="spacez.gif" width="100%" style="object-fit:cover"/>
+
+<!-- GIF section -->
+<td width="50%" valign="middle" align="center">
+
+<img src="spacez.gif"
+style="
+width:95%;
+height:320px;
+object-fit:cover;
+border-radius:12px;
+"/>
+
 </td>
 
 </tr>
 </table>
+
 
 
 <h2 align="left">Connect with me:</h2>
@@ -91,11 +116,19 @@ Passionate about building scalable software, backend systems, and AI-powered app
 <img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 height="30"
-width="40" />
+width="40"/>
 </a>
 
 </p>
 
 
-<!-- Bottom aesthetic banner -->
-<img src="spacez.gif" width="100%" style="object-fit:cover"/>
+
+<!-- Bottom banner GIF -->
+<img src="spacez.gif"
+width="100%"
+style="
+margin-top:20px;
+height:250px;
+object-fit:cover;
+border-radius:12px;
+"/>
