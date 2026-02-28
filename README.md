@@ -2,7 +2,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="middle">
-<h1>Hey 👋, I'm Ayan</h1>
+<h1>Hey, I'm Ayan</h1>
 <h3>Software Engineer from India</h3>
 </td>
 <td width="50%">
@@ -11,7 +11,7 @@
 </tr>
 </table>
 ---
-### 🛠️ Languages and Tools
+Languages and Tools
 <p>
 <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>&nbsp;
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>&nbsp;
