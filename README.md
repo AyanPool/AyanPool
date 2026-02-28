@@ -1,4 +1,4 @@
-<img src="Untitled design.gif" width="100%" style="object-fit:cover"/>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="middle">
@@ -28,3 +28,4 @@ Languages and Tools
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
+<img src="Untitled design.gif" width="100%" style="object-fit:cover"/>
