@@ -4,11 +4,6 @@
 
 <h1>Hey, I'm Ayan</h1>
 <h3>Software Engineer from India</h3>
-
-<p>
-Passionate about Backend Development, Machine Learning, and building scalable software systems.
-</p>
-
 </td>
 
 <td width="50%">
@@ -53,17 +48,7 @@ border-radius:12px;
 
 
 
-<td width="50%" valign="middle">
 
-<img src="skies.gif"
-style="
-width:100%;
-height:320px;
-object-fit:cover;
-border-radius:12px;
-"/>
-
-</td>
 
 </tr>
 </table>
