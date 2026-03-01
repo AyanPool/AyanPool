@@ -1,17 +1,17 @@
 <table width="100%">
 <tr>
-<td width="50%" valign="middle">
+<td width="40%" valign="middle">
 
 <h1>Hey, I'm Ayan</h1>
 <h3>Software Engineer from India</h3>
 </td>
 
-<td width="50%">
+<td width="60%">
 
 <img src="spacex3.gif"
 style="
 width:100%;
-height:270px;
+height:320px;
 object-fit:cover;
 border-radius:10px;
 "/>
