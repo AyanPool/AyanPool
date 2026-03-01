@@ -11,7 +11,7 @@
 <img src="spacex3.gif"
 style="
 width:100%;
-height:320px;
+height:300px;
 object-fit:cover;
 border-radius:12px;
 "/>
