@@ -88,8 +88,4 @@ width="40"/>
 <img src="spacez.gif"
 style="
 width:100%;
-height:250px;
-object-fit:cover;
-border-radius:12px;
-margin-top:20px;
 "/>
