@@ -63,4 +63,5 @@ style="
 width:100%;
 "/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyanPool&label=Profile views&color=0e75b6&style=flat" alt="AyanPool" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyanPool&label=Profile views&color=0e75b6&style=flat" alt="AyanPool" /> 
+</p>
