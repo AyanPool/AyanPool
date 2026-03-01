@@ -20,8 +20,6 @@ border-radius:10px;
 </tr>
 </table>
 
-
-
 <h2 align="left">Technologies I use:</h2>
 
 <table width="100%">
@@ -64,3 +62,5 @@ border-radius:10px;
 style="
 width:100%;
 "/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyanPool&label=Profile views&color=0e75b6&style=flat" alt="AyanPool" /> </p>
