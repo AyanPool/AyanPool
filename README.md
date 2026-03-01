@@ -52,7 +52,6 @@ border-radius:10px;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/AyanPool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AyanPool" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayan-kumar-a06b82224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayan-kumar-a06b82224/" height="30" width="40" /></a>
 <a href="https://medium.com/https://www.linkedin.com/in/ayan-kumar-a06b82224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://www.linkedin.com/in/ayan-kumar-a06b82224/" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/shark_ak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shark_ak/" height="30" width="40" /></a>
