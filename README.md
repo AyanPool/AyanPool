@@ -66,6 +66,10 @@ border-radius:10px;
 <a href="https://leetcode.com/https://leetcode.com/u/shark_ak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shark_ak/" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyanPool&label=Profile%20views&color=0e75b6&style=flat-square" alt="AyanPool profile views"/>
+</p>
+
 <img src="spacez.gif"
 style="
 width:100%;
