@@ -13,7 +13,7 @@ Passionate about Backend Development, Machine Learning, and building scalable so
 
 <td width="50%">
 
-<img src="gg - Trim.gif"
+<img src="spacex3.gif"
 style="
 width:100%;
 height:320px;
