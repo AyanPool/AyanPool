@@ -13,7 +13,7 @@ style="
 width:100%;
 height:270px;
 object-fit:cover;
-border-radius:12px;
+border-radius:10px;
 "/>
 
 </td>
