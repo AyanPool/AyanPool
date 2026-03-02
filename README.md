@@ -2,7 +2,7 @@
 <tr>
 <td width="45%" valign="middle">
 
-<h1 align="left">Hey, I'm Ayan</h1>
+<h1 align="left">Hey, I'm Ayan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h3 align="left">Software Engineer from India</h3>
 
@@ -45,7 +45,7 @@ style="border-radius:12px; object-fit:cover;"/>
 </p>
 
 <!-- CONNECT -->
-<h2 align="left">Connect With Me</h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><h2 align="left">Connect With Me</h2>
 
 <p align="left">
 
