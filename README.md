@@ -1,4 +1,3 @@
-<!-- HERO SECTION -->
 <table width="100%">
 <tr>
 <td width="45%" valign="middle">
@@ -7,10 +6,12 @@
 
 <h3 align="left">Software Engineer from India</h3>
 
+<!--
 <p align="left">
 I build scalable backend systems, intelligent applications, and data-driven solutions.<br>
-Passionate about Machine Learning and Artificial Intelligence, and constantly learning and exploring this evolving field.
+Passionate about Machine Learning and Artificial Intelligence.
 </p>
+-->
 
 </td>
 
