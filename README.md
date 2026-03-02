@@ -45,7 +45,7 @@ style="border-radius:12px; object-fit:cover;"/>
 
 
 <!-- CONNECT -->
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <p align="left">
 
