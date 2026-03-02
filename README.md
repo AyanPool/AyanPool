@@ -45,7 +45,7 @@ style="border-radius:12px; object-fit:cover;"/>
 </p>
 
 <!-- CONNECT -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><h2 align="left">Connect With Me</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Connect With Me</h2>
 
 <p align="left">
 
