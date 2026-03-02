@@ -3,20 +3,12 @@
 <tr>
 <td width="45%" valign="middle">
 
-<h1 align="left">Hey, I'm Ayan 👋</h1>
+<h1 align="left">Hey, I'm Ayan</h1>
 
-<h3 align="left">Software Engineer • Backend • Machine Learning</h3>
+<h3 align="left">Software Engineer from India </h3>
 
 <p align="left">
 I build scalable backend systems, intelligent applications, and data-driven solutions.
-Passionate about solving real-world problems using clean architecture and efficient algorithms.
-</p>
-
-<p align="left">
-🚀 Backend Development <br>
-🧠 Machine Learning <br>
-⚡ Data Structures & Algorithms <br>
-🐧 Linux & Systems
 </p>
 
 </td>
@@ -34,7 +26,7 @@ style="border-radius:12px; object-fit:cover;"/>
 ---
 
 <!-- TECH STACK -->
-<h2 align="left">⚡ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <p align="left">
 
@@ -50,20 +42,7 @@ style="border-radius:12px; object-fit:cover;"/>
 
 </p>
 
----
 
-<!-- WHAT I DO -->
-<h2 align="left">💡 What I Do</h2>
-
-<ul>
-<li>Build scalable backend systems using Flask and databases</li>
-<li>Develop Machine Learning models and intelligent tools</li>
-<li>Solve complex algorithmic problems using C++ and Python</li>
-<li>Design efficient system architectures</li>
-<li>Work with Linux systems and performance optimization</li>
-</ul>
-
----
 
 <!-- CONNECT -->
 <h2 align="left">🌐 Connect With Me</h2>
