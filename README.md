@@ -5,10 +5,11 @@
 
 <h1 align="left">Hey, I'm Ayan</h1>
 
-<h3 align="left">Software Engineer from India </h3>
+<h3 align="left">Software Engineer from India</h3>
 
 <p align="left">
-I build scalable backend systems, intelligent applications, and data-driven solutions.
+I build scalable backend systems, intelligent applications, and data-driven solutions.<br>
+Passionate about Machine Learning and Artificial Intelligence, and constantly learning and exploring this evolving field.
 </p>
 
 </td>
@@ -42,8 +43,6 @@ style="border-radius:12px; object-fit:cover;"/>
 
 </p>
 
-
-
 <!-- CONNECT -->
 <h2 align="left">Connect With Me</h2>
 
@@ -70,4 +69,3 @@ style="border-radius:12px; object-fit:cover;"/>
 
 <!-- FOOTER GIF -->
 <img src="spacez.gif" width="100%" style="border-radius:12px;"/>
-
