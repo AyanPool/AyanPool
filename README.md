@@ -71,6 +71,3 @@ style="border-radius:12px; object-fit:cover;"/>
 <!-- FOOTER GIF -->
 <img src="spacez.gif" width="100%" style="border-radius:12px;"/>
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=AyanPool&label=Profile%20Views&color=12&icon=5&pretty=true"/>
-</p>
