@@ -4,7 +4,7 @@
 
 <h1 align="left">Hey, I'm Ayan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="left">Software Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">A software engineer from India, based in Gurugram. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <!--
 <p align="left">
