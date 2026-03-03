@@ -53,10 +53,6 @@ style="border-radius:12px; object-fit:cover;"/>
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
-<a href="https://leetcode.com/u/shark_ak/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
-</a>
-
 </p>
 
 ---
