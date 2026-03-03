@@ -57,7 +57,6 @@ style="border-radius:12px; object-fit:cover;"/>
 
 <ul>
   <li>Machine Learning & Artificial Intelligence</li>
-  <li>Data Analysis with Python (Pandas, Matplotlib)</li>
 </ul>
 
 <!-- CONNECT -->
