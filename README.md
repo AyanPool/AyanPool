@@ -43,10 +43,8 @@ style="border-radius:12px; object-fit:cover;"/>
 <h3>My Latest Focus</h3>
 
 <ul>
-  <li>⚡ Backend Development & System Design</li>
-  <li>🤖 Machine Learning & Artificial Intelligence</li>
-  <li>📊 Data Analysis with Python (Pandas, Matplotlib)</li>
-  <li>⚙️ Microgrid Stability & Power Systems Research</li>
+  <li>Machine Learning & Artificial Intelligence</li>
+  <li>Data Analysis with Python (Pandas, Matplotlib)</li>
 </ul>
 
 <!-- CONNECT -->
