@@ -2,9 +2,9 @@
 <tr>
 <td width="45%" valign="middle">
 
-<h1 align="left">Hey, I'm Ayan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="left">Hey! Nice to see you.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="left">A software engineer from India, based in Gurugram. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">I'm Ayan, software engineer from India, based in Gurugram. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <!--
 <p align="left">
@@ -28,7 +28,7 @@ style="border-radius:12px; object-fit:cover;"/>
 ---
 
 <!-- TECH STACK -->
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Things I code with</h2>
 
 <p align="left">
 
@@ -45,7 +45,7 @@ style="border-radius:12px; object-fit:cover;"/>
 </p>
 
 <!-- CONNECT -->
-<h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Where to find me</h2>
 
 <p align="left">
 
