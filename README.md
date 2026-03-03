@@ -30,29 +30,36 @@ style="border-radius:12px; object-fit:cover;"/>
 <!-- TECH STACK -->
 <h2 align="left">Things I code with</h2>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,linux,flask,mysql,postgres,ts,figma,matlab" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,flask,mysql,postgres,ts,figma,matlab" />
 </p>
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
+
+<h3>My Latest Focus</h3>
+
+<ul>
+  <li>⚡ Backend Development & System Design</li>
+  <li>🤖 Machine Learning & Artificial Intelligence</li>
+  <li>📊 Data Analysis with Python (Pandas, Matplotlib)</li>
+  <li>⚙️ Microgrid Stability & Power Systems Research</li>
+</ul>
 
 <!-- CONNECT -->
-<h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Where to find me</h2>
+<h3>Where to find me</h3>
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ayan-kumar-a06b82224/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<p>
+<a href="https://github.com/AyanPool" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/ayan-kumar-a06b82224/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
