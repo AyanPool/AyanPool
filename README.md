@@ -17,7 +17,7 @@ Passionate about Machine Learning and Artificial Intelligence.
 
 <td width="55%">
 
-<img src="spacex3.gif"
+<img src="Untitled design.gif"
 width="100%"
 style="border-radius:12px; object-fit:cover;"/>
 
